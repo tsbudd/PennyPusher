@@ -1,0 +1,2 @@
+qt designer to pyside2:
+https://www.pythonguis.com/tutorials/pyside-first-steps-qt-designer/
